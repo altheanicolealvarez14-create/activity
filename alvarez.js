@@ -1,6 +1,5 @@
 const sectionA = ["Anna", "Brian", "Charlie"];
 const sectionB = ["Diana", "Ethan", "faith"];
-
 const conbined = {Allstudent: [...sectionA, ...sectionB]};
 console.log("conbined");
 
